@@ -2,6 +2,8 @@
 
 ![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
 
+Live Demo: [Advie Generator App](https://aniru-dh21.github.io/Advice-Generator-App/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
